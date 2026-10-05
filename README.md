@@ -1,7 +1,7 @@
 # Starpublisher
 
 <img width="1920" height="1003" alt="starpublisher" src="https://github.com/user-attachments/assets/3ae3138f-d98d-4212-809d-3d2b29fb38c7" />
-<img width="1024" height="1024" alt="starpublisher_icon" src="https://github.com/user-attachments/assets/aae6f5cc-459f-4ed9-913c-4e1e1bb49a3d" />
+
 
 
 <p align="center">
