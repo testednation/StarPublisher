@@ -1,0 +1,4 @@
+﻿Starpublisher 2.5.0 (Build 1062)
+Configuration : Release
+Built        : 2026-10-05 01:29:53
+Machine      : WIN-J0DDN5LFDJC
